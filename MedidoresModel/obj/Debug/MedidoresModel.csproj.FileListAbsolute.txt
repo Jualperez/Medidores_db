@@ -1,0 +1,2 @@
+C:\Users\juako\Desktop\db_Medidores\MedidoresApp\MedidoresModel\obj\Debug\MedidoresModel.csprojAssemblyReference.cache
+C:\Users\juako\Desktop\db_Medidores\MedidoresApp\MedidoresModel\obj\Debug\MedidoresModel.csproj.CoreCompileInputs.cache
